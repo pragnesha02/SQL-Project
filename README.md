@@ -1,2 +1,1 @@
-# SQL_Project
-# Mentorness Internship
+# SQL_Project & # Mentorness Internship
